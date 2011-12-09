@@ -1,1 +1,3 @@
-Aquí andamos, siguiendo el tutorial.
+Este es un script que sirve para que un servidor HTTP remoto con PHP5 y la extensión zip, nos descomprima uno o varios archivos zip, que previamente habremos subido al mismo.
+
+El script requiere (de momento) que los archivos residan en su mismo directorio.
