@@ -4,6 +4,7 @@
 function descomprimir_zip( $nombre_archivo, $directorio_salida='.' ) {
 
 
+
     $zip = new ZipArchive();
 
     if( $zip->open( $nombre_archivo ) ) {
